@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="Maven: javax.servlet:javax.servlet-api:4.0.1">
+    <archive path="C:/Users/48666/.m2/repository/javax/servlet/javax.servlet-api/4.0.1/javax.servlet-api-4.0.1.jar" />
+  </library>
+  <library name="Maven: org.junit.jupiter:junit-jupiter-api:5.7.1">
+    <archive path="C:/Users/48666/.m2/repository/org/junit/jupiter/junit-jupiter-api/5.7.1/junit-jupiter-api-5.7.1.jar" />
+  </library>
+  <library name="Maven: org.apiguardian:apiguardian-api:1.1.0">
+    <archive path="C:/Users/48666/.m2/repository/org/apiguardian/apiguardian-api/1.1.0/apiguardian-api-1.1.0.jar" />
+  </library>
+  <library name="Maven: org.opentest4j:opentest4j:1.2.0">
+    <archive path="C:/Users/48666/.m2/repository/org/opentest4j/opentest4j/1.2.0/opentest4j-1.2.0.jar" />
+  </library>
+  <library name="Maven: org.junit.platform:junit-platform-commons:1.7.1">
+    <archive path="C:/Users/48666/.m2/repository/org/junit/platform/junit-platform-commons/1.7.1/junit-platform-commons-1.7.1.jar" />
+  </library>
+  <library name="Maven: org.junit.jupiter:junit-jupiter-engine:5.7.1">
+    <archive path="C:/Users/48666/.m2/repository/org/junit/jupiter/junit-jupiter-engine/5.7.1/junit-jupiter-engine-5.7.1.jar" />
+  </library>
+  <library name="Maven: org.junit.platform:junit-platform-engine:1.7.1">
+    <archive path="C:/Users/48666/.m2/repository/org/junit/platform/junit-platform-engine/1.7.1/junit-platform-engine-1.7.1.jar" />
+  </library>
+  <library name="lib">
+    <archive path="C:/PJATK/LOCAL/SEMESTR_4/TPO/Zadanie 07/TPO7_MK_S20656/src/main/webapp/WEB-INF/lib/derby.jar" />
+    <archive path="C:/PJATK/LOCAL/SEMESTR_4/TPO/Zadanie 07/TPO7_MK_S20656/src/main/webapp/WEB-INF/lib/derby.war" />
+    <archive path="C:/PJATK/LOCAL/SEMESTR_4/TPO/Zadanie 07/TPO7_MK_S20656/src/main/webapp/WEB-INF/lib/derbynet.jar" />
+    <archive path="C:/PJATK/LOCAL/SEMESTR_4/TPO/Zadanie 07/TPO7_MK_S20656/src/main/webapp/WEB-INF/lib/derbyrun.jar" />
+    <archive path="C:/PJATK/LOCAL/SEMESTR_4/TPO/Zadanie 07/TPO7_MK_S20656/src/main/webapp/WEB-INF/lib/derbytools.jar" />
+    <archive path="C:/PJATK/LOCAL/SEMESTR_4/TPO/Zadanie 07/TPO7_MK_S20656/src/main/webapp/WEB-INF/lib/derbyclient.jar" />
+    <archive path="C:/PJATK/LOCAL/SEMESTR_4/TPO/Zadanie 07/TPO7_MK_S20656/src/main/webapp/WEB-INF/lib/derbyLocale_cs.jar" />
+    <archive path="C:/PJATK/LOCAL/SEMESTR_4/TPO/Zadanie 07/TPO7_MK_S20656/src/main/webapp/WEB-INF/lib/derbyLocale_es.jar" />
+    <archive path="C:/PJATK/LOCAL/SEMESTR_4/TPO/Zadanie 07/TPO7_MK_S20656/src/main/webapp/WEB-INF/lib/derbyLocale_fr.jar" />
+    <archive path="C:/PJATK/LOCAL/SEMESTR_4/TPO/Zadanie 07/TPO7_MK_S20656/src/main/webapp/WEB-INF/lib/derbyLocale_hu.jar" />
+    <archive path="C:/PJATK/LOCAL/SEMESTR_4/TPO/Zadanie 07/TPO7_MK_S20656/src/main/webapp/WEB-INF/lib/derbyLocale_it.jar" />
+    <archive path="C:/PJATK/LOCAL/SEMESTR_4/TPO/Zadanie 07/TPO7_MK_S20656/src/main/webapp/WEB-INF/lib/derbyLocale_pl.jar" />
+    <archive path="C:/PJATK/LOCAL/SEMESTR_4/TPO/Zadanie 07/TPO7_MK_S20656/src/main/webapp/WEB-INF/lib/derbyLocale_ru.jar" />
+    <archive path="C:/PJATK/LOCAL/SEMESTR_4/TPO/Zadanie 07/TPO7_MK_S20656/src/main/webapp/WEB-INF/lib/derbyLocale_de_DE.jar" />
+    <archive path="C:/PJATK/LOCAL/SEMESTR_4/TPO/Zadanie 07/TPO7_MK_S20656/src/main/webapp/WEB-INF/lib/derbyLocale_ja_JP.jar" />
+    <archive path="C:/PJATK/LOCAL/SEMESTR_4/TPO/Zadanie 07/TPO7_MK_S20656/src/main/webapp/WEB-INF/lib/derbyLocale_ko_KR.jar" />
+    <archive path="C:/PJATK/LOCAL/SEMESTR_4/TPO/Zadanie 07/TPO7_MK_S20656/src/main/webapp/WEB-INF/lib/derbyLocale_pt_BR.jar" />
+    <archive path="C:/PJATK/LOCAL/SEMESTR_4/TPO/Zadanie 07/TPO7_MK_S20656/src/main/webapp/WEB-INF/lib/derbyLocale_zh_CN.jar" />
+    <archive path="C:/PJATK/LOCAL/SEMESTR_4/TPO/Zadanie 07/TPO7_MK_S20656/src/main/webapp/WEB-INF/lib/derbyLocale_zh_TW.jar" />
+    <archive path="C:/PJATK/LOCAL/SEMESTR_4/TPO/Zadanie 07/TPO7_MK_S20656/src/main/webapp/WEB-INF/lib/derbyoptionaltools.jar" />
+  </library>
+</eclipse-userlibraries>
+

@@ -1,0 +1,26 @@
+html {
+  background-image: url("../images/cegly.jpg");
+
+  background-color: #ffe19f;
+  text-align: center;
+}
+
+body {
+  background-color: #ffe19f;
+}
+
+table, th, td {
+  border: 1px solid black;
+  background-color: white;
+}
+
+table {
+  width: 100%;
+}
+
+ol {
+  font-size: larger;
+}
+
+
+
